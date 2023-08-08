@@ -2,7 +2,7 @@
 
 ### 🔭 I’m currently working and essentially on Symfony 5/6 (...and sometime on Laravel)
 
-### 📫 How to reach me: [likedIn]
+### 📫 How to reach me: [likedIn](https://likedin.com/in/stephripa)
 
 
 <!--
