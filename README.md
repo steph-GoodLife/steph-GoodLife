@@ -2,6 +2,8 @@
 
 ### 🔭 I’m currently working and essentially on Symfony 5/6 (...and sometime on Laravel)
 
+### 🌱 I love learning and test other languages and ways
+
 ### 📫 How to reach me: [likedIn](https://likedin.com/in/stephripa)
 
 
