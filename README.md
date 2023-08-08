@@ -2,7 +2,7 @@
 
 ### 🔭 I’m currently working and essentially on Symfony 5/6 (...and sometime on Laravel)
 
-### 📫 How to reach me: ![cover](https://github.com/steph-GoodLife/steph-GoodLife/45214258/55e91b53-248e-420b-b401-05ce7d4d0cd9)
+### 📫 How to reach me: [https://github.com/steph-GoodLife/steph-GoodLife/45214258/55e91b53-248e-420b-b401-05ce7d4d0cd9]
 
 
 <!--
