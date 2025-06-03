@@ -4,6 +4,9 @@
 
 ### 🌱 I love learning and test other languages and ways
 
+### I'm building a native app Flutter for Android (and later for ios) for Padel and tracking stats with sensor BLE (private repo)
+
+
 ### 📫 How to reach me: [likedIn](https://likedin.com/in/stephripa)
 
 
